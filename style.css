@@ -1,0 +1,85 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #ffffff;
+}
+.input{border:#cccccc dashed 1px; line-height:20px;height:20px;}
+.reg12{color:#FF0000;font-size:12px;}
+.border{border:#cecece solid 1px;}
+.bk{border-bottom:#DFDCD7 solid 1px; }
+.Zred{color:#a0081b;font-size:16px; text-decoration:none;font-weight:bolder;}
+.font{
+		color: #252424;
+	font-size: 12px;
+	font-family: "宋体";}
+	.h_STYLE1 {
+	font-size: 12px;
+	color: #000000;
+	font-family: "宋体";
+	text-indent:24px;
+	line-height:28px;
+	height:28px;
+}
+.lv14
+{
+    font-size:14px;
+	color:#339900;
+	font-family: "宋体";
+	text-decoration:none;
+}
+.text12 {
+	font-size:12px;
+	color:#666666;
+	font-family: "宋体";
+	text-decoration:none;
+}
+.ju {
+	font-size:12px;
+	color:#89642f;
+	font-family: "宋体";
+	text-decoration:none;
+}
+.biti14 {
+	font-size:14px;
+	color: #222222;
+	font-family: "宋体";
+	line-height:25px;
+	font-weight:600;
+	text-decoration:none;
+}
+.bai14 {
+	font-size:14px;
+	color: #ffffff;
+	font-family: "宋体";
+	font-weight:bolder;
+	text-decoration:none;
+}
+.bai14 a:link {
+	font-size:14px;
+	color: #ffffff;
+	font-family: "宋体";
+	font-weight:400;
+	text-decoration:none;
+}
+.bai14 a:hover{
+	font-size:14px;
+	color:#ffffff;}
+.bai14 a:active {color:#e0fa05;
+	text-decoration: none;
+}
+
+.bai14 a:visited {
+	font-size: 14px;
+	color:#ffffff;
+	
+}
+.img{border:none;}
+
+
+.hei14{color:#515151; "宋体";
+	text-decoration:none;
+	font-size:14px;}
+
+.sea{width:175px;border:none;line-height:32px; height:32px;background:url(images/sea_01.jpg) left ; padding-left:10px;  color:#A7A6A6;}
